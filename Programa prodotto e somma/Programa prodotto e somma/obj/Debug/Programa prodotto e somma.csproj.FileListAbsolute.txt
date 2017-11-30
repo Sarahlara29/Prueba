@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Programa prodotto e somma\Programa prodotto e somma\bin\Debug\Programa prodotto e somma.exe.config
+C:\Users\admin\Desktop\Programa prodotto e somma\Programa prodotto e somma\bin\Debug\Programa prodotto e somma.exe
+C:\Users\admin\Desktop\Programa prodotto e somma\Programa prodotto e somma\bin\Debug\Programa prodotto e somma.pdb
+C:\Users\admin\Desktop\Programa prodotto e somma\Programa prodotto e somma\obj\Debug\Programa prodotto e somma.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Programa prodotto e somma\Programa prodotto e somma\obj\Debug\Programa prodotto e somma.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Programa prodotto e somma\Programa prodotto e somma\obj\Debug\Programa prodotto e somma.exe
+C:\Users\admin\Desktop\Programa prodotto e somma\Programa prodotto e somma\obj\Debug\Programa prodotto e somma.pdb
